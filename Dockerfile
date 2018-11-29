@@ -1,4 +1,4 @@
-FROM cs50/baseimage
+FROM cs50/baseimage:14.04
 USER root
 ARG DEBIAN_FRONTEND=noninteractive
 
